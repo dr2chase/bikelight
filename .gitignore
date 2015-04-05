@@ -1,0 +1,6 @@
+.hg
+.hgignore
+Debug
+.settings
+.project
+.cproject
