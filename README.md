@@ -8,4 +8,4 @@ This code is intended to run on an AVR328 in [this circuit board](https://oshpar
 
 [Parts list](https://docs.google.com/spreadsheets/d/1mQJT0Zcqhx5PFvLVMCGu2ovhkRw-4aj0jE8qOonMg7g/edit?usp=sharing)
 
-![Annotated photo](https://flic.kr/p/rbbacL)
+<a href="https://www.flickr.com/photos/dr2chase/16524066238" title="AnnotatedCircuit by David Chase, on Flickr"><img src="https://farm9.staticflickr.com/8583/16524066238_d26186a98c_z.jpg" width="640" height="470" alt="AnnotatedCircuit"></a>
